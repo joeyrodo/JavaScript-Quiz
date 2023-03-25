@@ -1,0 +1,55 @@
+html {
+    background-image: linear-gradient(to bottom right, #C1204A, #08007C);
+    color: white;
+}
+header {
+    margin: auto;
+    width: 50%;
+    border: 3px solid blue;
+    padding: 10px;
+    text-align: center;
+}
+#title-header {
+}
+
+main {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+#question-text {
+    text-align: center;
+}
+
+#scoretimer {
+    list-style: none;
+    margin: auto;
+    width: 50%;
+}
+
+#scoretimer > li {
+    display: inline-block;
+    text-align: center;
+    margin: 0 45px 0 45px;
+}
+
+.answer {
+    background-color: blueviolet;
+    font-size: 30px;
+    margin: 10px;
+    list-style: none
+}
+
+footer {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+#leaderboard-scores {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
