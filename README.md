@@ -8,7 +8,7 @@
 ## Installation
 
 - N/A
-- [Link to Website](https://joeyrodo.github.io/Module-4-Challenge/) 
+- [Link to Website](https://joeyrodo.github.io/JavaScript-Quiz/) 
 
 
 ## Usage
